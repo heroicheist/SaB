@@ -1,0 +1,31 @@
+{
+  "name": "stock-alert-app-be",
+  "version": "1.0.0",
+  "description": "stock alert app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heroicheist/Stock-Alert-App-BE.git"
+  },
+  "keywords": [
+    "stock",
+    "alert",
+    "nodejs"
+  ],
+  "author": "saran, ashwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heroicheist/Stock-Alert-App-BE/issues"
+  },
+  "homepage": "https://github.com/heroicheist/Stock-Alert-App-BE#readme",
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "express": "^4.18.1",
+    "isomorphic-ws": "^5.0.0",
+    "protobufjs": "^7.0.0",
+    "ws": "^8.8.1"
+  }
+}
